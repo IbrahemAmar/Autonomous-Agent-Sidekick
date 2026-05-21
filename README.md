@@ -1,3 +1,11 @@
+---
+title: Sidekick Agent
+emoji: 🤖
+colorFrom: emerald
+colorTo: indigo
+sdk: docker
+pinned: false
+---
 
 # Autonomous Agent Sidekick 🤖
 
