@@ -1,0 +1,13 @@
+langgraph
+langchain-openai
+langchain-community
+langchain-experimental
+playwright
+gradio
+python-dotenv
+pydantic
+langgraph-checkpoint-sqlite
+aiosqlite
+wikipedia
+yfinance
+requests
