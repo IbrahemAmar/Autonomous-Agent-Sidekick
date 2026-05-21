@@ -1,5 +1,4 @@
 
-```markdown
 # Autonomous Agent Sidekick 🤖
 
 An agentic, multi-step research assistant built with a **Worker-Evaluator pattern**. This project utilizes **LangGraph** for cyclical task execution, **Playwright** for autonomous web navigation, and **SQLite** for state persistence.
@@ -78,16 +77,5 @@ Open the provided URL (`http://127.0.0.1:7860`) in your browser to interact with
 * [ ] Integration with additional research tools (ArXiv, Google Scholar).
 * [ ] Support for alternative LLM providers (Anthropic, OpenRouter).
 * [ ] Enhanced UI dashboard for monitoring evaluator feedback cycles.
-
-```
-
----
-
-### Final Check Before Pushing:
-1.  Ensure your `requirements.txt` is updated: Run `pip freeze > requirements.txt` in your terminal first.
-2.  Ensure your `.gitignore` is present and contains `.env`, `data/`, and `.venv/`.
-3.  **Now you are ready to copy, save, and perform the final `git add .`, `git commit`, and `git push`.**
-
-Your project is now professionally documented and ready for any recruiter to review! Is there anything else you want to polish before we call this project "Done"?
 
 ```
