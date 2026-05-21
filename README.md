@@ -77,5 +77,3 @@ Open the provided URL (`http://127.0.0.1:7860`) in your browser to interact with
 * [ ] Integration with additional research tools (ArXiv, Google Scholar).
 * [ ] Support for alternative LLM providers (Anthropic, OpenRouter).
 * [ ] Enhanced UI dashboard for monitoring evaluator feedback cycles.
-
-```
