@@ -9,6 +9,9 @@ pinned: false
 
 # Autonomous Agent Sidekick 🤖
 
+[![Hugging Face Spaces](https://img.shields.io/badge/🤗_Hugging_Face-Live_Demo-blue)](https://huggingface.co/spaces/IbrahemAmar/Sidekick-Agent)
+
+
 An agentic, multi-step research assistant built with a **Worker-Evaluator pattern**. This project utilizes **LangGraph** for cyclical task execution, **Playwright** for autonomous web navigation, and **SQLite** for state persistence.
 
 ## 🏗️ Architecture: The Worker-Evaluator Loop
