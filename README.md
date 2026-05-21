@@ -1,7 +1,7 @@
 ---
 title: Sidekick Agent
 emoji: 🤖
-colorFrom: emerald
+colorFrom: green
 colorTo: indigo
 sdk: docker
 pinned: false
